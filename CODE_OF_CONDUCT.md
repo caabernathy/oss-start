@@ -1,13 +1,26 @@
-# Contributor Covenant Code of Conduct
+# Open Source Code of Conduct
+
+## Preface
+
+We value a healthy community where people feel psychologically
+safe in knowing others, working with tech, and contributing to our project.
+We recognize human interpersonal dynamics can be tricky, so we are codifying
+our guidelines on behavior and interactions with one another.
 
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-nationality, personal appearance, race, religion, or sexual identity and
-orientation.
+contributors and maintainers pledge to making participation in our project
+and our community a harassment-free experience for everyone, regardless of
+age, body size, neuro(a)typicality, disability, ethnicity, sex characteristics,
+gender identity and expression, level of experience, education level,
+socio-economic status, nationality, personal appearance, race, religion,
+or sexual identity and orientation. We strive for technological excellence,
+which is found where individuals feel psychologically safe when interacting
+with one another, contributing to the community, and supporting each other
+in education and use of our technology. We pledge to act and interact in ways
+that contribute to an open, welcoming, diverse, inclusive, and healthy
+community.
 
 ## Our Standards
 
@@ -17,19 +30,22 @@ include:
 * Using welcoming and inclusive language
 * Being respectful of differing viewpoints and experiences
 * Gracefully accepting constructive criticism
-* Focusing on what is best for the community
+* Focusing on what is best for the community, and prioritizing marginalized people's safety
 * Showing empathy towards other community members
+* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
 
 Examples of unacceptable behavior by participants include:
 
 * The use of sexualized language or imagery and unwelcome sexual attention or
-advances
+ advances
+* The use of violant language or imagery
 * Trolling, insulting/derogatory comments, and personal or political attacks
 * Public or private harassment
 * Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
+ address, without explicit permission (doxxing)
 * Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+ professional setting
+* Unwelcome comments regarding a person's lifestyle choices and practices, including those related to food, health, parenting, or employment
 
 ## Our Responsibilities
 
@@ -55,20 +71,22 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at caabernathy@fb.com. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
+reported by contacting the project team at <c.abernathy@f5.com>. All
+complaints will be reviewed and investigated and will result in a response
+that is deemed necessary and appropriate to the circumstances. The project
+team is obligated to maintain confidentiality with regard to the reporter
+of an incident, commit to confidentiality when requested, commit to
+reasonable response time, and transparency around following steps.
+Participants asked to stop any harassing behavior are expected to comply
+immediately.
 
 Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
+
 ## Attribution
+This Code of Conduct is adapted from the [Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html).
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at [http://contributor-covenant.org/version/1/4][version]
-
-[homepage]: http://contributor-covenant.org
-[version]: http://contributor-covenant.org/version/1/4/
+For answers to common questions about this code of conduct,
+see https://www.contributor-covenant.org/faq
