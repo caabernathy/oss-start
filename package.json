@@ -1,0 +1,14 @@
+{
+  "name": "oss-workshop",
+  "version": "1.0.0",
+  "description": "Open source workshop project",
+  "repository": "git@github.com:caabernathy/oss-start.git",
+  "author": "Christine Abernathy <ca.abernathy@f5.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.1.1"
+  }
+}
