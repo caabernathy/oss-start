@@ -2,7 +2,7 @@
 
 At this point you should have a good handle on the contribution workflow after completing the previous exercises.
 
-For developer peeps, this exercise allows you to play around and contribute code.
+For developer pears, this exercise allows you to play around and contribute code.
 
 The code you'll be looking at is written in JavaScript. Don't worry if you have little to no experience with JavaScript. You should be able to look at the code in question and get an idea of what's happening.
 
