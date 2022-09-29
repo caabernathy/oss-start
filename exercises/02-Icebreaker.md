@@ -20,4 +20,9 @@ Be warned, reviewers may dare you to add flare. If you don't know what flare is,
 
 ### Add Your Info Below...
 
+<pre>
+Hello my name is NAVEEN.
+My favourite quote is "In the middle of every difficulty lies an opportunity".
+</pre>
+
 
